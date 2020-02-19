@@ -1,4 +1,4 @@
-module example.com/sam/test
+module github.com/cnvnd1/queryPlanner
 
 go 1.13
 
